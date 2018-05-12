@@ -1,5 +1,5 @@
 _repo: The-Talisman--13-From-the-Russian-of-Alexander-Pushkin--With-Other-Pieces_12458
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Mickiewicz, Adam
@@ -20,6 +20,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
     - http://www.museum.ru/Pushkin/
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Borrow, George
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4383
     wikipedia: http://en.wikipedia.org/wiki/George_Borrow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12458#The-Talisman--13-From-the-Russian-of-Alexander-Pushkin--With-Other-Pieces
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
